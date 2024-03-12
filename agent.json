@@ -1,0 +1,11 @@
+{
+  "defaultLanguageCode": "en",
+  "timeZone": "America/Los_Angeles",
+  "projectNumber": 970136169061,
+  "advancedSettings": {
+    "loggingSettings": {
+    
+    }
+  },
+  "startPlaybook": "NQAS Agent"
+}
